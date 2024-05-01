@@ -77,7 +77,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/CyberJeferson">
     GitHub</a>&nbsp;|&nbsp;
-    <a https://www.linkedin.com/in/jeferson-oliveira-8335051b6">LinkedIn
+    <a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6">LinkedIn
 </a>
 &nbsp;|&nbsp;</p>
 </p>
