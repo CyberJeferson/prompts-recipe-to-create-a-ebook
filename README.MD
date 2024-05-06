@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="./assets/Ebook.png">
+    <img width="400" src="./assets/Ebook.png">
 </p>
 
 
@@ -10,12 +10,7 @@
 -------
 
 
-<p align="center">
-<img 
-    src="./assets/gokugod.jpg"
-    width="400"  
-/>
-</p>
+
 
 # Projeto EBOOK Gerado por I.A.s
 
