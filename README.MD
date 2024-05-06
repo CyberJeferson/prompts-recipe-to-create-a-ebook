@@ -35,7 +35,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  |traz sugestões de título para ebook , o nicho 1 será programação e o 2 será C#  usando a analogias com dragon ball super |
+|  título  |Traz sugestões de título para ebook , o nicho 1 será programação e o 2 será C#  usando a analogias com dragon ball super |
 | conteúdo | Faça um texto para ebook, com foco em melhorar as técnicas de C#, listando os principais métodos e fale também sobre operadores ternários e Linq e os métodos,tryparse,String.IsNullOrEmpty,Substring,IndexOf,Split e Join {REGRAS} Deixe o texto enxuto,Sempre traga exemplo de código em contexto reais,Sempre deixe um título sujestivo para o tópico,Exiba no exemplo seis tópicos|------------------------------------|
 
 
