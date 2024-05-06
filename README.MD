@@ -25,7 +25,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [BlueWillow](https://www.bluewillow.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -35,11 +35,18 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  |traz sugestões de título para ebook , o nicho 1 será programação e o 2 será C#  usando a analogias com dragon ball super |
+| conteúdo | Faça um texto para ebook, com foco em melhorar as técnicas de C#, listando os principais métodos e fale também sobre operadores ternários e Linq e os métodos,tryparse,String.IsNullOrEmpty,Substring,IndexOf,Split e Join
+{REGRAS}
+-Deixe o texto enxuto
+-Sempre traga exemplo de código em contexto reais
+-Sempre deixe um título sujestivo para o tópico
+-Exiba no exemplo seis tópicos
+-Faça uma introdução
+----------------------|
 
 
-Midjourney：
+BlueWillow：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
@@ -48,7 +55,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via BlueWillow
 
 ## 📚 Materiais
 
